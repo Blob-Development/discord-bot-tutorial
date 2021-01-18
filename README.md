@@ -1,3 +1,6 @@
+# Deprecated
+Temporarily archived.
+
 # Blob Development
 ### This is Discord Bot tutorial. The essential tutorial, all in one playlist.
 
